@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.b12ac23d.css",
-    "main.js": "/my-react-portfolio/static/js/main.5d3aedbe.js",
+    "main.js": "/my-react-portfolio/static/js/main.efa1c7ca.js",
     "static/media/bgggg.mp4": "/my-react-portfolio/static/media/bgggg.f16592dcde6fb68f7130.mp4",
     "static/media/todoApp.png": "/my-react-portfolio/static/media/todoApp.d4cde270958ad53baf39.png",
     "static/media/weatherApp.png": "/my-react-portfolio/static/media/weatherApp.dc934639e517994fd0a9.png",
     "static/media/bgg.jpg": "/my-react-portfolio/static/media/bgg.5bb5144799d3befefa29.jpg",
     "static/media/shoesApp.png": "/my-react-portfolio/static/media/shoesApp.4be5efcb29821c0b6997.png",
+    "static/media/booking.png": "/my-react-portfolio/static/media/booking.0955f0ce7c006f028d61.png",
+    "static/media/dropbox.png": "/my-react-portfolio/static/media/dropbox.39cd6303ebcfc2e08097.png",
     "static/media/trello.png": "/my-react-portfolio/static/media/trello.94d52ac29a2e9c456a10.png",
     "static/media/profilePic.jpg": "/my-react-portfolio/static/media/profilePic.b18ec346312cb0915431.jpg",
     "static/media/udemy1.png": "/my-react-portfolio/static/media/udemy1.021d983fa4b037699dbc.png",
@@ -21,10 +23,10 @@
     "static/media/reactCalendar.png": "/my-react-portfolio/static/media/reactCalendar.eaf2706a3c6f2c5d3da8.png",
     "index.html": "/my-react-portfolio/index.html",
     "main.b12ac23d.css.map": "/my-react-portfolio/static/css/main.b12ac23d.css.map",
-    "main.5d3aedbe.js.map": "/my-react-portfolio/static/js/main.5d3aedbe.js.map"
+    "main.efa1c7ca.js.map": "/my-react-portfolio/static/js/main.efa1c7ca.js.map"
   },
   "entrypoints": [
     "static/css/main.b12ac23d.css",
-    "static/js/main.5d3aedbe.js"
+    "static/js/main.efa1c7ca.js"
   ]
 }
