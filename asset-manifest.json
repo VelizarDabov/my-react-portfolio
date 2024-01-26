@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.b12ac23d.css",
-    "main.js": "/my-react-portfolio/static/js/main.efa1c7ca.js",
+    "main.css": "/my-react-portfolio/static/css/main.c9c6a724.css",
+    "main.js": "/my-react-portfolio/static/js/main.8d12ab4b.js",
     "static/media/bgggg.mp4": "/my-react-portfolio/static/media/bgggg.f16592dcde6fb68f7130.mp4",
     "static/media/todoApp.png": "/my-react-portfolio/static/media/todoApp.d4cde270958ad53baf39.png",
     "static/media/weatherApp.png": "/my-react-portfolio/static/media/weatherApp.dc934639e517994fd0a9.png",
@@ -22,11 +22,11 @@
     "static/media/reactCalculato.png": "/my-react-portfolio/static/media/reactCalculato.7b46f4d82507930046cc.png",
     "static/media/reactCalendar.png": "/my-react-portfolio/static/media/reactCalendar.eaf2706a3c6f2c5d3da8.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.b12ac23d.css.map": "/my-react-portfolio/static/css/main.b12ac23d.css.map",
-    "main.efa1c7ca.js.map": "/my-react-portfolio/static/js/main.efa1c7ca.js.map"
+    "main.c9c6a724.css.map": "/my-react-portfolio/static/css/main.c9c6a724.css.map",
+    "main.8d12ab4b.js.map": "/my-react-portfolio/static/js/main.8d12ab4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b12ac23d.css",
-    "static/js/main.efa1c7ca.js"
+    "static/css/main.c9c6a724.css",
+    "static/js/main.8d12ab4b.js"
   ]
 }
